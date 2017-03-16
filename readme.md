@@ -24,10 +24,10 @@ Currently availble Options are as follow:
 | Option        | Possible Values | Description
 | ------------- |:-------------   |:-------------
 | source        | "path_to_json_data" | URL to ajax source for json data
-| highlight      | true/false, default:true     | The higilight option highlight add enclose the text of autocomplete item with input query. For example if you searched for "revenue" and in the suggestions there is an item as revenue cycle, then it will highlight the revenue and the string suggestion item will be like, "<strong>revenue</strong> cycle"
+| highlight      | true/false, default:true     | The higilight option encloses the text of autocomplete item with input query. For example if you searched for "revenue" and in the suggestions there is an item as "revenue cycle", then it will highlight the revenue and the string suggestion item will be like, "<strong>revenue</strong> cycle"
 | minLength        | default: 3 | The minimum lenght which is required before suggestions are made.
 
 
-I am working on make this plugin as simple as possible, though if you think something is missing and needed as well if there is any issue, feel free to update it and also log issues.
+I needed this plugin to be quite simplest, though if you think there is something missing or causing an issue. Feel free to contact.
 
 Thanks
