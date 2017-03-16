@@ -83,7 +83,6 @@
             }else{
                 var currentFocusedItem = currentItemsList.children("li.focused");
                 currentFocusedItem.removeClass("focused");
-                console.log(currentFocusedItem,"currentFocusedItem");
                 if(focusDirection == "next"){
                     currentFocusedItem.next().addClass("focused");
                 }else{
