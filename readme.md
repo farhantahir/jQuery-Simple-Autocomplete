@@ -1,4 +1,4 @@
-jQuwery based simplest autocomplete functionality based on ajax source for data.
+jQuery based simplest autocomplete functionality based on ajax source for data.
 =
 Please follow the following steps to use this plugin.
 ----------
