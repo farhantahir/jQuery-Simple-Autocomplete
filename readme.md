@@ -10,12 +10,12 @@ In your html's head section add following two lines.
 The Basic initialization for the plugin is as follow:
 ```javascript
 <script type="text/javascript">
-$(document).ready(function () {
-	var options = {
-			source:"url_to_json_data"
-		};
-	$("#input_autocomplete").simpleAutoComplete(options);
-});	
+	$(document).ready(function () {
+		var options = {
+				source:"url_to_json_data"
+			};
+		$("#input_autocomplete").simpleAutoComplete(options);
+	});	
 </script>
 ```
 
